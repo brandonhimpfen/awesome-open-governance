@@ -27,6 +27,7 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 - [Follow the Money](https://followthemoney.org/) – Investigations and data on political and corporate influence.
 - [Transparency International](https://www.transparency.org/) – Global movement against corruption and for accountability.
 - [Open Contracting Partnership](https://www.open-contracting.org/) – Open data standards and tools for public procurement transparency.
+- [Congressional Stock Brain](https://congressionalstockbrain.com) – AI-powered tool that scores every U.S. STOCK Act disclosure by significance, tracking what lawmakers buy and sell with committee relevance, timing, and disclosure delay signals. Free to use, no signup required.
 
 ## Civic Tech Platforms
 
