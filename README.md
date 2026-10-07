@@ -45,6 +45,7 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 
 ## Government APIs
 
+- [AICD API](https://aicdapi.com/?utm_source=awesome_open_governance&utm_medium=directory&utm_campaign=free_listings) – Structured Texas civic records (DFW meetings, agenda items, documents) with source links.
 - [USA.gov API](https://www.usa.gov/developer) – Access to U.S. government data and services.
 - [UK Government API Catalogue](https://api.gov.uk/) – Central directory of APIs for UK public services.
 - [EU Open Data Portal](https://data.europa.eu/en) – API and datasets from EU institutions.
