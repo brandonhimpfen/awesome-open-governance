@@ -42,6 +42,7 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 - [Open Data for Development (OD4D)](https://od4d.net/) – A global network promoting open data for sustainable development.
 - [UN Data](https://data.un.org/) – Access data compiled through the United Nations.
 - [OECD Data](https://data.oecd.org/) – Economic and social data from the Organisation for Economic Co-operation and Development.
+- [Global Law](https://github.com/lexifina/global-law) – Open, CC0 git histories of the law of 208 jurisdictions, each change a commit dated the day it took effect.
 
 ## Government APIs
 
